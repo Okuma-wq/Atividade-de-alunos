@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\bin\Debug\netcoreapp3.1\Atividade de alunos.exe
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\bin\Debug\netcoreapp3.1\Atividade de alunos.deps.json
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\bin\Debug\netcoreapp3.1\Atividade de alunos.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\bin\Debug\netcoreapp3.1\Atividade de alunos.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\bin\Debug\netcoreapp3.1\Atividade de alunos.dll
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\bin\Debug\netcoreapp3.1\Atividade de alunos.pdb
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.dll
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.pdb
+C:\Users\pedro\Desktop\Projetos\Atividade de alunos\obj\Debug\netcoreapp3.1\Atividade de alunos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade de alunos/1.0.0": {
+        "runtime": {
+          "Atividade de alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade de alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
